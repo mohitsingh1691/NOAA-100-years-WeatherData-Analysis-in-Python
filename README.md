@@ -16,3 +16,5 @@ Make time-series stationary using Rolling Statistics ( Moving Averages) to ident
 
 Predict temperature trend in NewYork over next 50 years using Deep Learning & ARIMA Modelling.
 
+Used the climate data from the database at ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/
+
